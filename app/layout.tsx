@@ -8,14 +8,14 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "iLand Guard — ניטור אבטחה 24/7 מבוסס בינה מלאכותית",
+  title: "Pitornix — ניטור אבטחה 24/7 מבוסס בינה מלאכותית",
   description:
-    "iLand Guard מגנה על הבית, העסק והנכסים שלך עם ניטור מצלמות בזמן אמת, התראות מיידיות ומרכז שליטה חי — ללא צורך בהתקנה.",
+    "Pitronix מגנה על הבית, העסק והנכסים שלך עם ניטור מצלמות בזמן אמת, התראות מיידיות ומרכז שליטה חי — ללא צורך בהתקנה.",
   openGraph: {
-    title: "iLand Guard — ניטור אבטחה 24/7 מבוסס בינה מלאכותית",
+    title: "Pitronix — ניטור אבטחה 24/7 מבוסס בינה מלאכותית",
     description: "אבטחה פרואקטיבית מבוססת SENTRA AI. מעקב על הכל, לא מפספסים כלום.",
     url: "https://iland-guard.com",
-    siteName: "iLand Guard",
+    siteName: "Pitronix",
     type: "website",
   },
 };

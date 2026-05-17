@@ -50,7 +50,7 @@ export default function Footer() {
 
         <div className="mt-8 border-t border-white/5 pt-8 text-center text-xs text-zinc-600">
           <p>
-            © {new Date().getFullYear()} iLand Guard. כל הזכויות שמורות. ניטור אבטחה מבוסס בינה מלאכותית.
+            © {new Date().getFullYear()} Pitronix. כל הזכויות שמורות. ניטור אבטחה מבוסס בינה מלאכותית.
           </p>
         </div>
       </div>

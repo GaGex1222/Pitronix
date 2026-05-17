@@ -40,7 +40,7 @@ export default function Hero() {
 
         {/* Subheadline */}
         <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-zinc-400 sm:text-xl">
-          iLand Guard משלבת זיהוי מבוסס בינה מלאכותית עם מרכז שליטה חי כדי לשמור על הבית,
+          Pitronix משלבת זיהוי מבוסס בינה מלאכותית עם מרכז שליטה חי כדי לשמור על הבית,
           העסק או האתר שלך — 24 שעות ביממה, 7 ימים בשבוע. ללא התקנה. ללא עיוורונות. ללא פשרות.
         </p>
 

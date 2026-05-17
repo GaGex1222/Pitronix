@@ -41,7 +41,7 @@ export default function Features() {
         {/* Header */}
         <div className="mx-auto max-w-2xl text-center">
           <p className="text-sm font-semibold uppercase tracking-widest text-orange-400">
-            למה iLand Guard
+            למה Pitronix
           </p>
           <h2 className="mt-3 text-3xl font-bold tracking-tight text-white sm:text-4xl lg:text-5xl">
             הגנה שלא נרדמת
