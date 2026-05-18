@@ -476,17 +476,7 @@ export default function LandingPage() {
               </div>
             </div>
 
-            {/* VIDEO PLACEHOLDER SECTION */}
-            <div id="video" className="bg-slate-900 rounded-3xl border border-slate-800 aspect-video flex flex-col items-center justify-center text-center p-6 shadow-2xl relative group overflow-hidden w-full max-w-2xl mx-auto shadow-blue-950/20">
-              <div className="absolute inset-0 bg-gradient-to-tr from-blue-600/10 to-transparent transition-opacity duration-500 group-hover:opacity-20" />
-              <div className="w-16 h-16 sm:w-20 sm:h-20 bg-blue-600 hover:bg-blue-500 text-white rounded-full flex items-center justify-center shadow-2xl shadow-blue-600/40 cursor-pointer transform hover:scale-110 active:scale-95 transition-all z-10 duration-300">
-                <svg className="w-6 h-6 sm:w-8 sm:h-8 fill-current translate-x-[-3px]" viewBox="0 0 24 24">
-                  <path d="M8 5v14l11-7z" />
-                </svg>
-              </div>
-              <span className="mt-6 font-extrabold text-lg sm:text-xl text-slate-200 z-10 tracking-tight">צפו בסרטון התדמית של פתרוניקס</span>
-              <p className="text-slate-500 text-sm mt-1.5 z-10 font-light">כך אנו מתכננים ומקימים את מעטפת הביטחון של הנכס שלך 24/7</p>
-            </div>
+
 
           </div>
         </div>
